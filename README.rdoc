@@ -1,0 +1,6 @@
+= Appdrones
+
+This Gem provides some of the extra stuff needed to build, test and run applications within Appdrones:
+
+lib/progress_formatter  : This is the Cucumber formatter that reports the progress of all tests back to the Appdrones server for automatic display
+tasks/appdrones_tasks.rake: contains some of the tasks needed for deploying and testing
